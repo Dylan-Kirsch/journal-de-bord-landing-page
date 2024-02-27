@@ -1,0 +1,44 @@
+14/02/2024
+
+- Première réunion avec repartition des taches
+- Ma taches est de faire la partie html css sur 2 thèmes
+
+    - 1er thème : le monde 
+        faire un globe en 3D qui tourne et mettre les diffèrents sites sous formes de point gps / bouton
+
+    - 2ème thème : la musique
+        faire des vinyles qui quand on clique sur la pochette le disque sort. Les pochettes auront les logo des diffèrents sites
+
+
+
+
+21/02/2024
+
+- j'ai posté une vidéo de mon globe 3D avec un bouton sur WhatsApp, le groupe a validé la réalisation.
+
+
+
+
+22/02/2024
+
+- réunion sur WhatsApp en vocal pour faire un état des lieu sur l'avancement de nos taches
+
+
+
+
+24/02/2024
+
+- Annulation du globe 3D car l'animation des boutons est un enfer à gérer et ca bug au bout d'un certain temps.
+  Passage au thème de la musique
+
+
+
+
+25/02/2024
+
+- Création de la landing page sur le thème des vinyles
+
+
+
+27/02/2024
+
