@@ -1,14 +1,13 @@
 14/02/2024
 
-- Première réunion avec repartition des taches
-- Ma taches est de faire la partie html css sur 2 thèmes
+- Première réunion avec répartition des tâches
+- Ma tache est de faire la partie html Css sur 2 thèmes
 
     - 1er thème : le monde 
-        faire un globe en 3D qui tourne et mettre les diffèrents sites sous formes de point gps / bouton
+        faire un globe en 3D qui tourne et mettre les différents sites sous forme de point Gps / bouton
 
     - 2ème thème : la musique
-        faire des vinyles qui quand on clique sur la pochette le disque sort. Les pochettes auront les logo des diffèrents sites
-
+        faire des vinyles qui quand on clique sur la pochette le disque sort. Les pochettes auront les logos des différents sites
 
 
 
@@ -21,14 +20,14 @@
 
 22/02/2024
 
-- réunion sur WhatsApp en vocal pour faire un état des lieu sur l'avancement de nos taches
+- réunion sur WhatsApp en vocal pour faire un état dès lieu sur l'avancement de nos taches
 
 
 
 
 24/02/2024
 
-- Annulation du globe 3D car l'animation des boutons est un enfer à gérer et ca bug au bout d'un certain temps.
+- Annulation du globe 3D car l'animation des boutons est un enfer à gérer et ça bug au bout d'un certain temps.
   Passage au thème de la musique
 
 
@@ -36,9 +35,25 @@
 
 25/02/2024
 
-- Création de la landing page sur le thème des vinyles
+- Création de du landing page sur le thème des vinyles
 
 
 
 27/02/2024
 
+- Finalisation de la landing page sur le thème des vinyles
+
+
+
+29/02/2024
+
+- Réunion Whats App
+- Après discussion, on a décidé de prendre le thème de Gabriella qui reprend le design de Spotify et en y ajoutant aussi mes disques vinyles pour aporter une touche vintage
+- On a choisi le nom du groupe qui sera (pour l'instant) UniWeb Music
+- Ont ces de nouveau réparti les tâches avec Gabriella. Gabriella va coder ces idées et moi je coderais les parties plus complexes et ajusterai le code de Gabriella si besoin
+
+
+03/03/2024
+
+- La page d'accueil et faite, elle contient les noms des différents sites et leurs images/logo
+- La page bibliothèque est en cours 
