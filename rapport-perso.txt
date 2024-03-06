@@ -1,59 +1,162 @@
-14/02/2024
+JOUR 1 : le 14/02/2024 - 15h30
 
-- Première réunion avec répartition des tâches
-- Ma tache est de faire la partie html Css sur 2 thèmes
+  •	Dylan KIRSCH
 
-    - 1er thème : le monde 
-        faire un globe en 3D qui tourne et mettre les différents sites sous forme de point Gps / bouton
+Objectif de la séance : se regrouper en groupe dans une salle et se distribuer les rôles de chacun et planifier les échéances
+Ma tâche est de faire la partie html Css sur 2 thèmes
 
-    - 2ème thème : la musique
-        faire des vinyles qui quand on clique sur la pochette le disque sort. Les pochettes auront les logos des différents sites
+1.	Faire un globe en 3D qui tourne et mettre les différents sites sous forme de point Gps / bouton.
+2.	Faire des vinyles qui quand on clique sur la pochette le disque sort. Les pochettes auront les logos des différents sites.
 
+  ACTIVITÉS
 
+Aucune ce jour là
+COMPÉTENCES ACQUISES 
+Être organisé
+Aptitude à travailler en équipe
 
-21/02/2024
+  RÉSULTAT
 
-- j'ai posté une vidéo de mon globe 3D avec un bouton sur WhatsApp, le groupe a validé la réalisation.
-
-
-
-
-22/02/2024
-
-- réunion sur WhatsApp en vocal pour faire un état dès lieu sur l'avancement de nos taches
+L’attribution des tâches à était accepté par les membres du groupe
 
 
+***********************
+
+ 
+JOUR 2 : le 21/02/2024 
+
+  •	Dylan KIRSCH
+
+Finalisation du globe 3D avec un bouton qui affiche le logo du groupe.
+
+  ACTIVITÉS
+
+Réalisation d’un effet 3D en CSS sur un cercle, pour lui donnée l’apparence d’un globe qui tourne sur lui-même.
+Réalisation d’un bouton qui devra tourner avec le globe sur une zone précise et disparaitre au limite du globe
+
+  COMPÉTENCES ACQUISES 
+
+Savoir utiliser la propriété « content » en CSS
+Meilleur compréhension des animation CSS
+
+  RÉSULTAT
+
+Après avoir posté une vidéo sur WhatsApp, le groupe a aimé la réalisation.
 
 
-24/02/2024
-
-- Annulation du globe 3D car l'animation des boutons est un enfer à gérer et ça bug au bout d'un certain temps.
-  Passage au thème de la musique
+*****************************
 
 
+JOUR 3 : le 22/02/2024
+
+  •	Dylan KIRSCH
+Réunion sur WhatsApp en vocal pour faire un état dès lieu sur l'avancement de nos taches
+  
+  ACTIVITÉS
+Prise de notes sur les nouvelles idée évoqué
+
+  COMPÉTENCES ACQUISES 
+
+Être organisé
+Travail d’équipe
+
+  RÉSULTAT
+
+Annulation du globe 3D car l'animation des boutons est un enfer à gérer, passage au thème de la musique.
 
 
-25/02/2024
-
-- Création de du landing page sur le thème des vinyles
+*****************************
 
 
+JOUR 4 à 6 : 25/02/2024 au 27/02/2024
+  
+  •	Dylan KIRSCH
+Création et Finalisation de la landing page sur le thème de la music
 
-27/02/2024
+  ACTIVITÉS
 
-- Finalisation de la landing page sur le thème des vinyles
+Réalisation des pochettes vinyle qui auront comme image les logo des différents sites.
+Réalisation des disques vinyle qui seront caché derrière les pochettes, et apparaitront avec une animation quand on clique sur la pochette.
+
+  COMPÉTENCES ACQUISES 
+
+Être organisé
+Amélioration des compétences CSS et HTML
+
+  RÉSULTAT
+
+Thème terminer et posté la vidéo sur WhatsApp le groupe a validé le thème.
 
 
-
-29/02/2024
-
-- Réunion Whats App
-- Après discussion, on a décidé de prendre le thème de Gabriella qui reprend le design de Spotify et en y ajoutant aussi mes disques vinyles pour aporter une touche vintage
-- On a choisi le nom du groupe qui sera (pour l'instant) UniWeb Music
-- Ont ces de nouveau réparti les tâches avec Gabriella. Gabriella va coder ces idées et moi je coderais les parties plus complexes et ajusterai le code de Gabriella si besoin
+*****************************
 
 
-03/03/2024
+JOUR 7 : le 29/02/2024
+  
+  •	Dylan KIRSCH
 
-- La page d'accueil et faite, elle contient les noms des différents sites et leurs images/logo
-- La page bibliothèque est en cours 
+Réunion sur WhatsApp en Visio pour décider si on prend le thème sur la musique de Gabriella ou le mien
+
+  ACTIVITÉS
+
+Réorganisation des tâches pour html – css.
+Choix du thème définitif.
+
+  COMPÉTENCES ACQUISES 
+
+Être organisé
+Travail d’équipe
+
+  RÉSULTAT
+
+•	Après discussion, on a décidé de prendre le thème de Gabriella qui reprend le design de Spotify et en y ajoutant aussi mes disques vinyles pour apporter une touche vintage
+•	On a choisi le nom du groupe qui sera (pour l'instant) UniWeb Music
+•	Ont ces de nouveau réparti les tâches avec Gabriella. Gabriella va coder ces idées et moi je coderais les parties plus complexes et ajusterai le code de Gabriella si besoin
+
+
+*****************************
+
+
+JOUR 8 : le 03/03/2024 
+
+  •	Dylan KIRSCH
+
+  ACTIVITÉS
+
+Réception du code de Gabriella sur le thème de Spotify.
+Amélioration du code, ajout de contenu dans la page d’accueil et ajout d’une page bibliothèque
+
+  COMPÉTENCES ACQUISES
+
+Être organisé
+Travail d’équipe
+Travail sur un code qui n’est pas le sien
+
+  RÉSULTAT
+
+La page d'accueil et faite, elle contient les noms des différents sites et leurs images/logo.
+La page bibliothèque est en cours de création.
+
+
+************************
+
+
+JOUR 9 : le 05/03/2024
+
+  •	Dylan KIRSCH
+
+Réunion par téléphone avec Gabriella
+
+  ACTIVITÉS
+
+Remise en question sur le visuel.
+Beaucoup d’idée évoqué, validée ou non.
+
+  COMPÉTENCES ACQUISES
+
+Être organisé
+Travail d’équipe
+
+  RÉSULTAT
+  
+On a choisi de partir sur quelque chose de plus simple sans trop copier Spotify. Gabriella s’occupe de la structure de base et moi j’ajouterai et améliorerai le contenu du site
